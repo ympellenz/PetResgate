@@ -1,0 +1,7 @@
+{
+  "name": "trabalhoFinal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
