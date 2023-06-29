@@ -23,7 +23,7 @@ export class LoginPage implements OnInit {
 
   validaLogin() {
 
-    if (this.login == 'user' && this.password == 'admin') {
+    if (this.login == 'user' && this.password == 'user') {
       this.nav.navigateForward('home');
     }
     else {

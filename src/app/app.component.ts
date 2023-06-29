@@ -11,7 +11,7 @@ import { IonicModule } from '@ionic/angular';
 })
 export class AppComponent {
   public appPages = [
-    { title: 'Página Principal', url: 'home', icon: 'home' },
+    { title: 'Página Inicial', url: 'home', icon: 'home' },
     { title: 'Adoções', url: 'galeria', icon: 'paper-plane' },
     { title: 'Cadastro', url: 'cadastro', icon: 'heart' },
   ];
